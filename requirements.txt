@@ -1,0 +1,22 @@
+# Object Detection
+ultralytics>=8.4.137
+torch
+torchvision
+
+# Computer Vision
+opencv-python
+numpy
+Pillow
+
+# Tracking
+filterpy
+scipy
+scikit-image
+
+# Utilities
+PyYAML
+requests
+tqdm
+matplotlib
+pandas
+seaborn
