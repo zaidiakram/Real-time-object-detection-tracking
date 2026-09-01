@@ -1,4 +1,4 @@
-Real-Time Object Detection & Tracking with YOLO26s + SORT
+**Real-Time Object Detection & Tracking with YOLO26s + SORT**
 
 A real-time computer vision system for object detection and multi-object tracking using YOLO26s and SORT.
 
